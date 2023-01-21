@@ -1,4 +1,4 @@
-# Projeto_Logica_Progra-o
+# Projeto_Logica_Programação
 Projeto de Lógica de Programação - Sistema de Criação e deleção de usuário
 
 Este projeto foi criado no módulo de aprendizado de PYTHON do programa da Let's Code (ADA) da SUZANO.
